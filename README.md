@@ -49,18 +49,6 @@ L'architecture est déployée sur **AWS Learner Lab** et se compose des élémen
 
 ---
 
-## 📊 Livrables du Projet
-
-> [!IMPORTANT]
-> **Validation du Lab** : Les éléments suivants constituent la preuve de réussite de l'atelier :
-
-✔ Agents Linux & Windows apparaissant en état **Active** sur la console.  
-✔ Alertes de niveau de sévérité élevé générées suite aux simulations d'attaques.  
-✔ Tableaux de bord personnalisés filtrés par Agent ID.  
-✔ Rapport d'inventaire système (Packages, Ports ouverts, Vulnérabilités).
-
----
-
 ## 🧰 Stack Technique
 * **SIEM/EDR** : Wazuh
 * **Cloud** : AWS (VPC, Security Groups, EC2)
